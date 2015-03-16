@@ -1,0 +1,27 @@
+{
+  "name": "ember-cli-build-timestamp",
+  "version": "0.0.1",
+  "description": "Ember-CLI addon for adding the `ember build` timestamp to application.",
+  "scripts": {
+    "test": "echo \"No test specified yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MadMG/ember-cli-build-timestamp.git"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "author": {
+    "name": "Martin Groller",
+    "email": "madmg82@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MadMG/ember-cli-build-timestamp/issues"
+  },
+  "homepage": "https://github.com/MadMG/ember-cli-build-timestamp",
+  "keywords": [
+    "ember-addon"
+  ]
+}
