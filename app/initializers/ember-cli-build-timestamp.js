@@ -1,7 +1,7 @@
 export default {
   name: 'buildTimestamp',
 
-  initialize: function (container, application) {
+  initialize: function (application) {
     var timestamp = application.BUILD_TIMESTAMP;
     var key = 'buildTimestamp';
 
