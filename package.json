@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-build-timestamp",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Ember-CLI addon for adding the `ember build` timestamp to application.",
   "scripts": {
     "test": "echo \"No test specified yet\" && exit 0"
